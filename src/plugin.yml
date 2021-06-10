@@ -1,0 +1,16 @@
+name: GRankup
+version: 1.0
+author: darkwinged
+main: me.darkwinged.GalaxyRankup.Main
+depend: [Vault]
+softdepend: [PlaceholderAPI]
+commands:
+  grankup: 
+    aliases:
+      - gr
+  setrank:
+  setprestige: 
+  rankup:
+  autorankup:
+  prestige:
+  autoprestige: 

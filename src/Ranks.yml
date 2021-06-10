@@ -1,0 +1,73 @@
+Ranks:
+  A:
+    cost: 5000
+  B: 
+    cost: 10000
+  C:
+    cost: 15000
+  D:
+    cost: 20000
+  E:
+    cost: 25000
+  F:
+    cost: 30000
+  G:
+    cost: 35000
+  H:
+    cost: 40000
+  I:
+    cost: 45000
+  J:
+    cost: 50000
+  K:
+    cost: 55000
+  L:
+    cost: 60000
+  M:
+    cost: 65000
+  N:
+    cost: 70000
+  O:
+    cost: 75000
+  P:
+    cost: 80000
+  Q:
+    cost: 85000
+  R:
+    cost: 90000
+  S:
+    cost: 95000
+  T:
+    cost: 100000
+  U:
+    cost: 105000
+  V:
+    cost: 110000
+  W:
+    cost: 115000
+  X:
+    cost: 120000
+  Y:
+    cost: 125000
+  Z:
+    cost: 130000
+    
+Prestiges:
+  Settings:
+     Rank Reset: true # this will automatically set the player back to the first rank but keep the prestiege.
+  Ranks:
+     Prestige1:
+       cost: 500000
+       rank multiplier: 2 # This will multiply the default ranks price by this percentage.
+     Prestige2: 
+       cost: 1000000
+       rank multiplier: 2.4
+     Prestige3:
+       cost: 1500000
+       rank multiplier: 2.6
+     Prestige4:
+       cost: 2000000
+       rank multiplier: 2.8
+     Prestige5:
+       cost: 2500000
+       rank multiplier: 33
